@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Nellutla Tarun
 
-<!--
-**NTharun20/NTharun20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate (2026)
+💻 Aspiring Associate Software Engineer
+🌱 Currently learning Full Stack Development, DSA, and AI
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- Python
+- HTML, CSS, JavaScript
+- React.js
+- Node.js
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### Edu-Bright Path
+AI-Powered Personalized Career Guidance Platform
+
+### Portfolio Website
+Personal portfolio showcasing projects and skills.
+
+## Connect with Me
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/nellutla-tarun-0b4435280/)
+- Email: nellutlatharun2003@gmail.com
+
+⭐ Open to Software Development Opportunities
